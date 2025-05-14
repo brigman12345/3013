@@ -3,9 +3,9 @@
 ### James Steward
 ### Description: 
 
-This assignment is just proof of being at the event and watching a presentation.
+This assignment shows a picture of a poster at the Scholarship presentations.
 
 |                                Celebration of Scholarship                                 |
 | :------------------------------------------------------------------------: |
 |  <img src="https://thumbs2.imgbox.com/4b/49/1SDF7MP7_t.jpeg" width="400">   |
-| This is a picture of my favorite poster there. |
+| This was one of the posters I saw. |
